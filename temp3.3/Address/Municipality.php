@@ -1,0 +1,9 @@
+<option value="Binondo Area">Binondo Area</option>
+<option value="Ermita">Ermita</option>
+<option value="Intramuros">Intramuros</option>
+<option value="New Manila Area">New Manila Area</option>
+<option value="Santa Mesa">Santa Mesa</option>
+<option value="Santa Mesa Height">Santa Mesa Height</option>
+<option value="Santa Cruz Area">Santa Cruz Area</option>
+<option value="Santa Ana">Santa Mesa</option>
+<option value="Tondo">Tondo</option>
